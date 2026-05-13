@@ -4729,3 +4729,8 @@ a.button {
 	border-color: #4f7c1f !important;
 	box-shadow: none !important;
 }
+body:before,
+#wrapper:before {
+	display: none !important;
+	background: none !important;
+}
