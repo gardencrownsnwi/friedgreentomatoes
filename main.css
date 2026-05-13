@@ -4687,3 +4687,22 @@ input, select, textarea {
 		}
 
 	}
+body,
+#wrapper,
+#main,
+.post,
+.posts article,
+#footer {
+    background: #f7e8ff !important;
+}
+
+#nav,
+#header {
+    background: #3b1f2b !important;
+}
+
+.button,
+input[type="submit"] {
+    background-color: #3b1f2b !important;
+    color: #ffffff !important;
+}
